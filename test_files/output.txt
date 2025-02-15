@@ -1,0 +1,4 @@
+Minimum password length: 4
+Maximum password length: 6
+Types: 123
+Generated password: vq5l
