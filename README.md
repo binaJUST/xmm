@@ -20,3 +20,4 @@ This Java program creates strong passwords based on user-specified parameters.  
 
 
 
+# generatePass
